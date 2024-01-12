@@ -8,6 +8,7 @@ import Updatenotes from './components/Updatenotes';
 function App() {
   return (
     <>
+    {/* this is react router dot navigate the user from one page to another page. */}
     <BrowserRouter>
     <Navbar/>
       <Routes>
